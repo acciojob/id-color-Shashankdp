@@ -3,6 +3,7 @@
 	background-color: yellow;
 	border:1px solid green;
 	border-top-width: 3px;
+	border-bottom-width: 3px;
 }
 #red{
 	background-color: red;
